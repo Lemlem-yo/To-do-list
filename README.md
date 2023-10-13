@@ -1,0 +1,1 @@
+Project mainly focus on CRUD operation using javascript
